@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dtolnay/inventory/commit/e26963a994fc389269a5f10e798cb1c87408f385",
       "git:hexsha": "e26963a994fc389269a5f10e798cb1c87408f385",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T23:06:53.431191+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dtolnay/inventory/commit/1a28fb36ddd3db8e175149a9e6fefcd6961e049c",
