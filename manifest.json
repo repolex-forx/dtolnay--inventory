@@ -76,6 +76,29 @@
       ],
       "ast": [
         "aggregate/ast/d11c2796c973ee61fa971419b61cdeb500914941/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d11c2796c973ee61fa971419b61cdeb500914941.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rustversion",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "dtolnay",
+          "githubRepo": "rustversion",
+          "githubUrl": "https://github.com/dtolnay/rustversion",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "trybuild",
+          "ecosystem": "CARGO",
+          "version": "1.0.108",
+          "githubOrg": "dtolnay",
+          "githubRepo": "trybuild",
+          "githubCommit": "89963402acbd517e9fd0697b8152461c823037d0",
+          "githubTag": "1.0.108",
+          "githubUrl": "https://github.com/dtolnay/trybuild",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
